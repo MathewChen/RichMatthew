@@ -1,0 +1,2 @@
+# RichMatthew
+Python学习。
